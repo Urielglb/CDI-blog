@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Lorem Ipsum
-description: Esto es una prueba de publicación
+description: Esto es una prueba de publicación para la página
 date: 2022-05-26T03:57:02.715Z
 ---
 # Lorem ipsum
