@@ -6,28 +6,18 @@ date: 2022-05-29T05:04:00.000Z
 ---
 <!--StartFragment-->
 
+![(2022). Elequidadlaboral.com. https://elequidadlaboral.com/wp-content/uploads/2019/09/Diversidad.jpg  ‌](https://elequidadlaboral.com/wp-content/uploads/2019/09/Diversidad.jpg)
+
 Desde hace cuatro meses curso una materia en la universidad llamada Ciencia, Diversidad e Inclusión; en principio, al igual que con todas las demás materias que he cursado,  mi total intención era aprender correctamente lo que se imparte, sin embargo, en el transcurso, desarrollo y temas que tocamos en la materia, sentí un despertar de parte de mi conciencia social, tocamos temas sobre violencia y discriminación social que no había reparado en análizar, me dí cuenta de las acciones y pensamientos que pueden significar una violencia para con los demás como hacía mí, pero sobre todo y más importante es que después de este análisis pienso que he crecido para bien como persona.
-
-
 
 A lo largo de la materia hemos analizado diversas violencias como la violencia de género, de raza, de sexualidad,  epistémica, el capacitismo y validismo, cada tipo de violencias vulnera a los diversos sectores de la sociedad y muchas veces estas violencias se intersecan para un mismo individuo, haciéndolo más vulnerable, por ejemplo, una mujer negra es vulnerable a sufrir tanto violencia de género como violencia de raza.
 
-
-
 El tener conocimiento de estas violencias (como las anteriormente mencionadas), me ha dejado ver de forma metafórica que la vida se encuentra llena de filtros, los cuales nos categorizan (clasifican y jerarquizan) en esta sociedad, nos imponen cómo vamos a ser vistos y tratados; dictan lo que merecemos o no, creando un pensamiento de que tenemos el poder de tratar distinto a los demás solo porque no somos vistos bajo esos mismo filtros, a veces en nuestro raciocinio ya tenemos estas ideas y jamás nos dimos cuenta de cuando las obtuvimos, crecemos con ellos y al igual que las demás personas que llevan puestos sus propios filtros hacemos uso de estos y clasificamos a las personas y las tratamos de manera distinta. 
-
-
 
 Creemos que somos mejores que ciertas personas porque no compartimos cierta característica física, social, cultural, sexual, ideológica, política, etc. llevando a un trato de forma diferente, a algunos mejor y a otros peor. No nos detenemos a pensar en qué es lo que sienten las personas, no hasta que nos tratan de la misma manera en que nosotros alguna vez tratamos a alguien, y no nos gusta; a nadie le gusta que nos vean como algo inferior por conceptos que en nuestro pensamiento no tiene lógica o importancia, ideas que no debería significar una distinción, pero no lo hacemos hasta que hemos vivido esa experiencia, hasta que conocemos a alguien que nos permite comprender el sentir de los demás o hasta que tenemos el conocimiento de lo que son estas violencias y discriminaciones, cosa última que experimente al llevar la materia de Ciencia, Diversidad e Inclusión.
 
-
-
 Otra parte interesante que aprendí es que todo tipo de violencia y discriminación que vivimos parte de una idealización normalizada y que a partir de este se ha estructurado un sistema, me refiero a el hombre cis género,  blanco, heterosexual, rico y sin discapacidades, el cual se ha posicionado como figura de poder y a lo largo de la historia ha ejercido su voluntad e ideologías en la sociedad y a sus individuos, perpetuado la violencia y discriminación, sin embargo, ha habido cambios en este sistema, cambios impulsados por los distintos grupos oprimidos a través de distintas acciones como los son las protestas, las marchas, la divulgación, la generación de nuevo conocimiento y demás, pero no ha sido un cambio fácil, esto ha significado que la seguridad y calidad de vida de las personas involucradas se vea amenazado e incluso afectada.
 
-
-
 Ahora que soy capaz de reconocer las distintas violencias y discriminaciones que existen en la sociedad en la que nos desarrollamos cada uno de nosotros como individuos, sé que me va a ser una herramienta útil para el resto de mi vida, pues puedo evitar ejercer este tipo de violencias. Como objetivo personal está el compartir este conocimiento con las personas con las que convivo, para que al igual que yo también cambien acciones o pensamientos violentos o discriminatorios, esperando que este crecimiento personal que siento se convierta en un crecimiento colectivo en mi círculo cercano. 
-
-
 
 <!--EndFragment-->
