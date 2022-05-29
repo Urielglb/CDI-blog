@@ -6,7 +6,7 @@ date: 2022-05-29T05:04:00.000Z
 ---
 <!--StartFragment-->
 
-![](https://elequidadlaboral.com/wp-content/uploads/2019/09/Diversidad.jpg)
+![(2022). Elequidadlaboral.com. https://elequidadlaboral.com/wp-content/uploads/2019/09/Diversidad.jpg  ‌](https://elequidadlaboral.com/wp-content/uploads/2019/09/Diversidad.jpg)
 
 Desde hace cuatro meses curso una materia en la universidad llamada Ciencia, Diversidad e Inclusión; en principio, al igual que con todas las demás materias que he cursado,  mi total intención era aprender correctamente lo que se imparte, sin embargo, en el transcurso, desarrollo y temas que tocamos en la materia, sentí un despertar de parte de mi conciencia social, tocamos temas sobre violencia y discriminación social que no había reparado en análizar, me dí cuenta de las acciones y pensamientos que pueden significar una violencia para con los demás como hacía mí, pero sobre todo y más importante es que después de este análisis pienso que he crecido para bien como persona.
 
