@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Cronología "
-description: Realizado por Gutierrez Andrade Paola Mealni.
+description: Realizado por Gutierrez Andrade Paola Melani.
 date: 2022-05-30T15:50:00.000Z
 ---
 <!--StartFragment-->
