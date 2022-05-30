@@ -10,8 +10,6 @@ A continuación se muestran algunos pensamientos de una vida narrada a través d
 
 <!--EndFragment-->
 
-
-
 ***Noviembre 25, 2019.***
 
 <!--StartFragment-->
@@ -25,8 +23,6 @@ las marcas en mi piel cuentan lo poco que me querías
 donde muchas veces la culpa yo me atribuía. 
 
 <!--EndFragment-->
-
-
 
 ***Noviembre 29, 2019.***
 
@@ -42,8 +38,6 @@ Qué amor sera ese que todo el tiempo me tiene atada y hundida.
 
 <!--EndFragment-->
 
-
-
 ***Marzo 12, 2020.***
 
 <!--StartFragment-->
@@ -57,8 +51,6 @@ También duermes junto a mi, esas acciones ya estan aquí
 el tiempo corre, el sol sale, lo veo en las manecillas. 
 
 <!--EndFragment-->
-
-
 
 ***Julio 18, 2020.***
 
@@ -102,8 +94,6 @@ para rencontrarnos con mi madre  que he lograda solo en algunos sueños.
 
 <!--EndFragment-->
 
-
-
 ***Noviembre 08, 2020.***
 
 <!--StartFragment-->
@@ -118,8 +108,6 @@ la felicidad esta aquí y no debes temer ya no debes luchar.
 
 <!--EndFragment-->
 
-
-
 ***Noviembre 08, 2020.***
 
 <!--StartFragment-->
@@ -133,8 +121,6 @@ y supongo que pensaste que dos docenas de agujeros se verían bien en mi
 mientras ella lograba correr para no volver pues debía emprender el vuelo,
 
 <!--EndFragment-->
-
-
 
 ***Mayo 18, 2022.*** 
 
@@ -152,9 +138,11 @@ el sistema les ha fallado pero no dejan de buscan justicia día con día. 
 
 
 
+<!--StartFragment-->
+
 Cada fecha aquí escrita indica en que alguna mujer fué víctima de feminicidio en México. 
 
-<!--StartFragment-->
+
 
 Noviembre 25, 2019. Abril Pérez Sagaón –  CDMX. 
 
