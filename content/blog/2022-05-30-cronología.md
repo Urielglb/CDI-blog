@@ -71,8 +71,6 @@ el sistema les ha fallado pero no dejan de buscar justicia día con día.
 
 
 
-
-
 Cada fecha aquí escrita indica el día en que alguna mujer fué víctima de feminicidio en México. 
 
 **Noviembre 25, 2019.** Abril Pérez Sagaón –  CDMX. 
