@@ -57,7 +57,7 @@ la felicidad esta aquí y no debes temer, ya no debes luchar.
 
 ***Noviembre 08, 2020.***
 
-Pude haberlo dicho pero no fué así pues como a un objeto te apoderaste de mi
+Pude haberlo dicho pero no fué así pues como de un objeto te apoderaste de mi
 me tomaste de las manos me azotaste y arrastraste por el suelo 
 y supongo que pensaste que dos docenas de agujeros se verían bien en mi
 mientras ella lograba correr para no volver pues debía emprender el vuelo.
