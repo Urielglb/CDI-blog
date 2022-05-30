@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: RESCATANDO NUESTRAS RAICES
-description: Escrito y video cerca de la identidad y revitalización lingüistica
+description: Escrito y video acerca de la identidad y revitalización lingüistica
   por Abril Keever Hidalgo
 date: 2022-05-30T21:18:00.000Z
 ---
