@@ -1,16 +1,16 @@
 ---
 layout: blog
 title: "Frente a un tablero de ajedrez "
-description: "Cuento "
+description: "Elaborado por Ulises Said Cárdenas Verdiguel "
 date: 2022-05-29T22:49:24.709Z
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ date: 2022-05-29T22:49:24.709Z
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ date: 2022-05-29T22:49:24.709Z
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ date: 2022-05-29T22:49:24.709Z
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -740,8 +740,6 @@ Empezó el torneo, el cual estaba organizado para que los enfrentamientos fuesen
 
 Con piezas blancas, número 8 del Rank mundial, la que años más tarde sería considerada como la mejor ajedrecista en toda la historia, Judit, contra el ruso campeón del mundo, el ogro.
 
- 
-
 Fue una partida cerrada, nadie domino la apertura, medio juego, igual, parejo, pero se empieza acabar el tiempo, jud ha calculado, pero el ogro lo ve todo, no se deja nada, Judit propone, pero el campeón del mundo no desiste. Es un enfrentamiento de mentes brillantes, pero jud quiere ganar, sigue proponiendo, es tanto el ataque que, con apuros de tiempo, el campeón mundial toma al rey, pésima jugada, solo tiene tres casillas posibles para no perder de inmediato, en la primera, pierde en 3 movimientos, en la segunda pierde en 9, y en la tercera, si bien, no pierde de inmediato, se deja un alfil, que a estas alturas bastaría para perder una partida. Sin embargo, con delicadeza deja el rey, toma el alfil, y hace la jugada correcta. Jud voltea de reojo al árbitro, el árbitro gira la cabeza hacia arriba como dando entender que aquí no ha pasado nada…, Judit regresa la atención al tablero, y mueve.
 
 Nunca sabremos que hubiese pasado si jud hubiese informado lo sucedido, no sabemos si con la penalización de tiempo, el ruso hubiese caído, lo más seguro es que sí, ya que lo tenían acorralado, o tal vez hubiera terminado en tablas, al final del día no es como si fuera sencillo derrotar al campeón, o tal vez no hubiera pasado nada, el árbitro como en aquella ocasión hubiese determinado que el juego siguiera, que aquí no sucedió nada. No lo sabemos, asi como nunca sabremos cual fue la verdadera razón por la cual jud no lo señalo; apuros de tiempo, demasiada concentración en el juego en sí, o simplemente le llego el mal recuerdo de aquella vez.
@@ -750,11 +748,7 @@ Judit, puso pausa el reloj, y dio la mano, esto era, sinónimo de rendición. El
 
 Hungría no se llevo podía ese día, los franceses ganaron todo en la ultima ronda y se llevaron tercer lugar, pero ya nadie, ni la misma elite rusa dudaba que había nacido una prodigiosa jugadora húngara, bueno casi nadie.
 
- 
-
 \-Realmente me sorprendió, no es como si no supiera quien es ella, desde hace años que lo sé, pero jamás nos habíamos enfrentado. Hace mucho que no sufro tanto en una partida, he enfrentado a los mejores ajedrecistas de mi época, y hoy, enfrento a uno más, a Polgar. Sin duda, una mente y un talento prodigioso para el ajedrez, pero al final de todo, Judit es una mujer, y ninguna mujer puede sostener una lucha tan prolongada. El ogro, sobre Jud después de vencerla en las olimpiadas.
-
- 
 
 Sobre las hermanas polgar:
 
@@ -768,22 +762,12 @@ A los 26 años, Judit Polgar derroto al ogro en 45 jugadas, y así, se convirti�
 
 Fin.
 
- 
-
- 
-
-Sobre este cuento
+**Sobre este cuento**
 
 Este cuento esta basado en la vida ajedrecística de Judit Polgar, mujer húngara menor de tres hermanas que, desde muy pequeña mostro un gran interés y talento por el ajedrez. Como intentamos ilustrar en el cuento, la carrera ajedrecística de Judit no fue sencilla, ya que en el ajedrez se tenía un precepto el cual era que una mujer no podía jugar al nivel de un hombre, al menos de un “ajedrecista”. Judit Polgar se convirtió en GM a la edad de 15 años, más joven que el mismo Capa Blanca, fue la primera mujer en ser top 8 mundial en ajedrez, y, por si fuera poco, en enfrentar y derrotar a campeones mundiales entre los que destacan Boris Spassky, Anatoly Karpov, y Garry Kaspárov (al que muchos consideran el mejor ajedrecista de toda la historia) siendo éste el autor de tan polémica cita: “Ella tiene mucho talento para el ajedrez, pero después de todo, es una mujer. Ninguna mujer puede sostener una batalla prolongada.”  
 
- 
-
-¿Por qué este cuento?
+**¿Por qué este cuento?**
 
 Este cuento tiene como propósito ejemplificar, en algo que pareciese tan sutil como un deporte, el cómo a raíz de prejuicios, se juzga y se violenta a alguien solo por ser; a Judit Polgar solo por ser mujer se pensaba que no podía llegar a ser tan buena como los hombres ajedrecistas; se le juzgaba en base a lo que era/es, y no al juego que hacía y se le violentaba con comentarios como los de Garry Kaspárov.
-
- 
-
- 
 
 <!--EndFragment-->
