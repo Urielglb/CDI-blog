@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Cronología "
+title: Cronología de una vida
 description: Elaborado por Gutierrez Andrade Paola Melani.
 date: 2022-05-30T15:50:00.000Z
 ---
