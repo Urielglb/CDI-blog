@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Hablando de racismo
-description: Texto
+description: "Elaborado por Diana Laura Merino Alejandro "
 date: 2022-05-30T00:03:32.022Z
 ---
 <!--\\\\\\\[if gte mso 9]><xml>
