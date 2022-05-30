@@ -46,7 +46,7 @@ Quiero huir pero el fantasma de tus acciones esta aquí
 
 me persigue, me envuelve y me ahorca en pesadillas 
 
-También duermes junto a mi, esas acciones ya estan aquí
+duermes junto a mi, esas acciones ya estan aquí
 
 el tiempo corre, el sol sale, lo veo en las manecillas. 
 
@@ -62,7 +62,7 @@ a no opinar, ni defenderse, pero a progerse y a esconderse 
 
 a pensar pero no a actuar y a limitarse de escuchar todos estos ruidos
 
-que agotan y que agobian a no odiar a los hombres pero a temerles.
+que agotan y que agobian, a no odiar a los hombres pero a temerles.
 
 
 
@@ -74,7 +74,7 @@ Mi deber es hacerte salir para que logres brillar lejos de esta jaula
 
 no tengo a donde llevarte y eso me abre viejas y nuevas heridas
 
-tal vez es evidente que necesitamos ayuda pero la gente no especula
+tal vez es evidente que necesitamos ayuda pero la gente no lo especula
 
 nadie me escucha llorar ni sollozar ¿acaso no importan muestras vidas?.
 
@@ -88,7 +88,7 @@ están llenas de esperanzas y de monedas encontradas a lo largo de tres años 
 
 es el momento de huir y finalmente correr a traves de estas grietas
 
-para rencontrarnos con mi madre  que he lograda solo en algunos sueños.
+para rencontrarnos con mi madre  que he lograda solo en  sueños.
 
 
 
@@ -100,9 +100,9 @@ Esta tarde el viento se siente bien, y el sol es acogedor 
 
 viviendo mientras disfrutamos la vista ya toca empezar a sanar
 
-pronto solo serán viejas cicatrices esto es relamente liberador
+pronto solo serán viejas cicatrices ¡esto es relamente liberador!
 
-la felicidad esta aquí y no debes temer ya no debes luchar.
+la felicidad esta aquí y no debes temer, ya no debes luchar.
 
 
 
